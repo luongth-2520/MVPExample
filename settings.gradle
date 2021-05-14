@@ -1,0 +1,2 @@
+rootProject.name = "MVPExample"
+include ':app'
